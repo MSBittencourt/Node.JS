@@ -1,0 +1,25 @@
+{
+  "name": "node.js",
+  "version": "1.0.0",
+  "description": "node js cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSBittencourt/Node.JS.git"
+  },
+  "author": "Marianna Bittencourt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSBittencourt/Node.JS/issues"
+  },
+  "homepage": "https://github.com/MSBittencourt/Node.JS#readme",
+  "dependencies": {
+    "args": "^5.0.0",
+    "axios": "^0.18.0",
+    "email-validator": "^2.0.4",
+    "yargs": "^13.1.0"
+  }
+}
